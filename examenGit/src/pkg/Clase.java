@@ -6,6 +6,7 @@ public class Clase {
 		String apellido="MJ";
 		int edad = 14;
 		int dni = 445646549;
+		String texto= "Andrés pafavah sálvame";
 		
 		
 	}
